@@ -37,7 +37,7 @@ nav  ul  li{
 }
 
 nav > ul > li:first-child > a{
-    background-image: url(./imagenes/casa.png);
+    background-image: url(../imagenes/casa.png);
     background-size: 24px;
     background-repeat: no-repeat;
     background-position: center center;
@@ -45,7 +45,7 @@ nav > ul > li:first-child > a{
 
 }
 nav > ul > li:first-child:hover > a{
-    background-image: url(./imagenes/casa.png);
+    background-image: url(../imagenes/casa.png);
     background-size: 24px;
     background-repeat: no-repeat;
     background-position: center center;
